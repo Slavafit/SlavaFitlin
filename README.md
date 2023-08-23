@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Slava Fitlin</h1>
 <h3 align="center">Junior developer Full Stack</h3>
 
-- 📄 Know about my experiences [Worked as a system administrator for more than 10 years. I like repairing electronics.](Worked as a system administrator for more than 10 years. I like repairing electronics.)
+- 📄 Know about my experiences **Worked as a system administrator for more than 10 years. I like repairing electronics.**
 
 - ⚡ Fun fact **I use a drone to get a good view.**
 
